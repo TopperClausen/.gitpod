@@ -1,0 +1,1 @@
+code --install-extension oderwat.indent-rainbow

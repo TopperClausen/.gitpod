@@ -28,5 +28,3 @@ if [ "$NO_ZSH" != "true" ]; then
   # reload oh-my-zsh instructions again
   echo "source \$ZSH/oh-my-zsh.sh" >>~/.zshrc
 fi
-
-code --install-extension oderwat.indent-rainbow
